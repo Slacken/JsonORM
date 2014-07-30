@@ -1,4 +1,4 @@
-An ORM mapping and converting JSON to Objects in Java:
+An ORM mapping and converting JSON to Objects in Java, supporting RESTful API access, dirty tracks and Parcelable implementation:
 
     public class Item extends Model {
       public String title;
